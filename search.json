@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Hi! I’m Julianna",
     "section": "",
-    "text": "I’m a marine community ecologist interested in how anthropogenic changes are altering coastal ecosystems and what those changes mean for ecosystem stability. I completed my M.S. in the [Silliman Lab](https://sites.nicholas.duke.edu/silliman/) at Duke University and am currently a fifth-year PhD student at UC Santa Barbara in the\n[Burkepile Lab](https://labs.eemb.ucsb.edu/burkepile/deron/). In my research I integrate a combination of field experimentation, lab work, and ecological modeling to understand how changing levels of biodiversity influence communities in both temperate and tropical nearshore systems.\n&lt;img src=“images/photo.png” width=“100%”/&gt;"
+    "text": "&lt;img src=“images/MRB_Renzi_4.JPG” alt=“Photo of Julianna collecting samples underwater” style=“border-radius: 50%;”&gt;"
   },
   {
     "objectID": "index.html#a-bit-about-me",
     "href": "index.html#a-bit-about-me",
     "title": "Hi! I’m Julianna",
-    "section": "",
-    "text": "I’m a marine community ecologist interested in how anthropogenic changes are altering coastal ecosystems and what those changes mean for ecosystem stability. I completed my M.S. in the [Silliman Lab](https://sites.nicholas.duke.edu/silliman/) at Duke University and am currently a fifth-year PhD student at UC Santa Barbara in the\n[Burkepile Lab](https://labs.eemb.ucsb.edu/burkepile/deron/). In my research I integrate a combination of field experimentation, lab work, and ecological modeling to understand how changing levels of biodiversity influence communities in both temperate and tropical nearshore systems.\n&lt;img src=“images/photo.png” width=“100%”/&gt;"
+    "section": "A bit about me",
+    "text": "A bit about me\nI’m a marine community ecologist interested in how anthropogenic changes are altering coastal ecosystems and what those changes mean for ecosystem stability. I completed my M.S. in the Silliman Lab at Duke University and am currently a fifth-year PhD student at UC Santa Barbara in the Burkepile Lab. In my research I integrate a combination of field experimentation, lab work, and ecological modeling to understand how changing levels of biodiversity influence communities in both temperate and tropical nearshore systems.\n&lt;img src=“images/MRB_Renzi_4.JPG” width=“100%”/&gt;"
   },
   {
     "objectID": "index.html#running-code",
