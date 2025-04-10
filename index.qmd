@@ -3,27 +3,10 @@ title: "Hi! I'm Julianna"
 format: html
 ---
 
-\<img src="images/MRB_Renzi_4.JPG" alt="Photo of Julianna collecting samples underwater" style="border-radius: 50%;"\>
+<center><img src="images/MRB_Renzi_4.JPG" alt="Photo of Julianna collecting samples underwater" width="65%" style="border-radius: 100%"></center>
 
-## A bit about me
+## 
 
-I'm a marine community ecologist interested in how anthropogenic changes are altering coastal ecosystems and what those changes mean for ecosystem stability. I completed my M.S. in the [Silliman Lab](https://sites.nicholas.duke.edu/silliman/) at Duke University and am currently a fifth-year PhD student at UC Santa Barbara in the [Burkepile Lab](https://labs.eemb.ucsb.edu/burkepile/deron/). In my research I integrate a combination of field experimentation, lab work, and ecological modeling to understand how changing levels of biodiversity influence communities in both temperate and tropical nearshore systems.
+<center>I'm a marine community ecologist interested in how anthropogenic changes are altering coastal ecosystems and what those changes mean for ecosystem stability. I completed my M.S. in the [Silliman Lab](https://sites.nicholas.duke.edu/silliman/) at Duke University and am currently a fifth-year PhD student at UC Santa Barbara in the [Burkepile Lab](https://labs.eemb.ucsb.edu/burkepile/deron/). In my research I integrate a combination of field experimentation, lab work, and ecological modeling to understand how changing levels of biodiversity influence communities in both temperate and tropical nearshore systems.</center>
 
-\<img src="images/MRB_Renzi_4.JPG" width="100%"/\>
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
