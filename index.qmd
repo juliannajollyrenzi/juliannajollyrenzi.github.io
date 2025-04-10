@@ -1,7 +1,5 @@
 ---
 title: "Hi! I'm Julianna"
-format: html
-editor: visual
 ---
 
 ## A bit about me
