@@ -1,5 +1,6 @@
 ---
 title: "Hi! I'm Julianna"
+format: html
 ---
 
 \<img src="images/MRB_Renzi_4.JPG" alt="Photo of Julianna collecting samples underwater" style="border-radius: 50%;"\>
