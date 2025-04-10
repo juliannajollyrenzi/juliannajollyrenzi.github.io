@@ -1,12 +1,16 @@
 ---
-title: "index.qmd"
+title: "Hi! I'm Julianna"
 format: html
 editor: visual
 ---
 
-## Quarto
+## A bit about me
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+I'm a marine community ecologist interested in how anthropogenic changes are altering coastal ecosystems and what those changes mean for ecosystem stability. I completed my M.S. in the \[Silliman Lab\](https://sites.nicholas.duke.edu/silliman/) at Duke University and am currently a fifth-year PhD student at UC Santa Barbara in the
+
+\[Burkepile Lab\](https://labs.eemb.ucsb.edu/burkepile/deron/). In my research I integrate a combination of field experimentation, lab work, and ecological modeling to understand how changing levels of biodiversity influence communities in both temperate and tropical nearshore systems.
+
+\<img src=\"images/photo.png\" width=\"100%\"/\>
 
 ## Running Code
 

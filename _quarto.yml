@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Hi! I'm Julianna"
+  title: "Julianna Renzi"
   repo-url: https://github.com/juliannajollyrenzi/juliannajollyrenzi.github.io/tree/main
   repo-actions: [issue]
   navbar:
