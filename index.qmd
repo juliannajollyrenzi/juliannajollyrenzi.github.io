@@ -10,7 +10,7 @@ I'm a marine community ecologist interested in how anthropogenic changes are alt
 
 \[Burkepile Lab\](https://labs.eemb.ucsb.edu/burkepile/deron/). In my research I integrate a combination of field experimentation, lab work, and ecological modeling to understand how changing levels of biodiversity influence communities in both temperate and tropical nearshore systems.
 
-\<img src=\"images/photo.png\" width=\"100%\"/\>
+\<img src="images/photo.png" width="100%"/\>
 
 ## Running Code
 
